@@ -14,17 +14,18 @@ public class MyServlet extends HttpServlet {
 
     
     public MyServlet() {
-        // TODO Auto-generated constructor stub
     }
 
-
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		response.getWriter().append("Hello " + request.getParameter("username"));
+		response.getWriter().append("Hello " + "Username:"+ request.getParameter("username")+
+												" Gender:"+ request.getParameter("gender")+
+												" Degree:"+request.getParameter("degree")+
+												" Specailization:"+request.getParameter("specialization")
+												
+				);
+
 	}
 
-	
-	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		response.getWriter().append("Hello " + request.getParameter("username"));
-	}
+
 
 }
