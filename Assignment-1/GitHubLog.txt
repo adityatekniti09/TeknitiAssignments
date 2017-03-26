@@ -1,0 +1,124 @@
+2016-10-20 17:21:28.2551|INFO|thread:14|DashboardViewModel|Selected repository 'rmalired/CFundCampaign'
+2016-10-20 17:18:00.4274|INFO|thread: 1|GitHubEnvironment|ACTIVATION DATA RAW
+2016-10-20 17:18:00.4805|INFO|thread: 1|GitHubEnvironment|[base64:LXU9Z2l0aHViLXdpbmRvd3M6Ly9vcGVuUmVwby9odHRwczovL2dpdGh1Yi5jb20vYWRpdHlhdGVrbml0aTA5L0JTQQ==,L3Jlc3RhcnRlZA==,LS1jZD1DOlxQcm9ncmFtIEZpbGVzICh4ODYpXEdvb2dsZVxDaHJvbWVcQXBwbGljYXRpb25cNTMuMC4yNzg1LjE0Mw==]: '0'
+2016-10-20 17:18:00.4805|INFO|thread: 1|GitHubEnvironment|ACTIVATION DATA UNENCODED
+2016-10-20 17:18:00.4805|INFO|thread: 1|GitHubEnvironment|[-u=github-windows://openRepo/https://github.com/adityatekniti09/BSA]: '0'
+[/restarted]: '1'
+[--cd=C:\Program Files (x86)\Google\Chrome\Application\53.0.2785.143]: '2'
+2016-10-20 17:18:00.4805|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:-u=github-windows://openRepo/https://github.com/adityatekniti09/BSA
+/restarted
+--cd=C:\Program Files (x86)\Google\Chrome\Application\53.0.2785.143
+2016-10-20 17:18:00.5015|INFO|thread: 1|CommandLineHandler|Unprocessed args: 
+2016-10-20 17:18:00.5108|INFO|thread: 1|AppInstance|Starting up as master instance of GitHub Desktop
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| #########################################
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| GitHub Desktop started. VERSION: 3.2.0.0
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| Build version: 82770ca7379567812d83fa0e6931148f456f1b54
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| ***************************************
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| ***        Have a problem?          ***
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| ***    Email support@github.com     ***
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| ***      and include this file      ***
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| ***************************************
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| OS Version: Windows 10 10.0.14393.0 amd64
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| CLR Version: 4.0.30319.42000
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| Current culture: en-US
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| Environment.CurrentDirectory: C:\Users\Aditya\AppData\Local\Apps\2.0\RMY7Y07A.CXO\5AP666W2.H7V\gith..tion_317444273a93ac29_0003.0002_34b4671ab86a4854
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| Terminal Services session: no
+2016-10-20 17:18:00.5108|INFO|thread: 4|StartupLogging| Location: C:\Users\Aditya\AppData\Local\Apps\2.0\RMY7Y07A.CXO\5AP666W2.H7V\gith..tion_317444273a93ac29_0003.0002_34b4671ab86a4854\GitHub.exe
+2016-10-20 17:18:00.5298|INFO|thread: 4|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2016-10-20 17:18:00.5298|INFO|thread: 4|StartupLogging| System.Environment.CommandLine: C:\Users\Aditya\AppData\Local\Apps\2.0\RMY7Y07A.CXO\5AP666W2.H7V\gith..tion_317444273a93ac29_0003.0002_34b4671ab86a4854\GitHub.exe
+2016-10-20 17:18:00.5569|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2016-10-20 17:18:00.5569|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2016-10-20 17:18:00.5569|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-10-20 17:18:00.5569|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\cmd;C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\usr\bin;C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\usr\share\git-tfs;C:\Users\Aditya\AppData\Local\Apps\2.0\RMY7Y07A.CXO\5AP666W2.H7V\gith..tion_317444273a93ac29_0003.0002_34b4671ab86a4854;C:\Users\Aditya\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\Program Files (x86)\Google\Chrome\Application;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;c:\program files (x86)\java\jre7\bin;c:\program files (x86)\microsoft sql server\100\tools\binn\vsshell\common7\ide\;c:\program files (x86)\microsoft sql server\100\tools\binn\;c:\program files\microsoft sql server\100\tools\binn\;c:\program files (x86)\microsoft sql server\100\dts\binn\;c:\program files\tortoisesvn\bin;c:\maven\bin;c:\windows\system32;c:\program files\ibm\gsk8\lib64;C:\Program Files\MongoDB\Server\3.0\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jdk1.7.0_51\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\nodejs\;C:\Program Files(x86)\Java\jdk1.7.0_51\bin;C:\Program Files\MongoDB\Server\3.0\bin;C:\Users\Aditya\AppData\Roaming\npm;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-10-20 17:18:00.5569|INFO|thread: 1|GitHubEnvironment|ACTIVATION DATA RAW
+2016-10-20 17:18:00.5569|INFO|thread: 1|GitHubEnvironment|[base64:LXU9Z2l0aHViLXdpbmRvd3M6Ly9vcGVuUmVwby9odHRwczovL2dpdGh1Yi5jb20vYWRpdHlhdGVrbml0aTA5L0JTQQ==,L3Jlc3RhcnRlZA==,LS1jZD1DOlxQcm9ncmFtIEZpbGVzICh4ODYpXEdvb2dsZVxDaHJvbWVcQXBwbGljYXRpb25cNTMuMC4yNzg1LjE0Mw==]: '0'
+2016-10-20 17:18:00.5569|INFO|thread: 1|GitHubEnvironment|ACTIVATION DATA UNENCODED
+2016-10-20 17:18:00.5569|INFO|thread: 1|GitHubEnvironment|[-u=github-windows://openRepo/https://github.com/adityatekniti09/BSA]: '0'
+[/restarted]: '1'
+[--cd=C:\Program Files (x86)\Google\Chrome\Application\53.0.2785.143]: '2'
+2016-10-20 17:18:00.5569|INFO|thread: 4|StartupLogging| =====================================================
+2016-10-20 17:18:00.5569|INFO|thread: 1|App|Application was previously re-started.
+2016-10-20 17:18:00.5569|INFO|thread: 4|StartupLogging|  DIAGNOSTICS                                        |
+2016-10-20 17:18:00.5569|INFO|thread: 4|StartupLogging| =====================================================
+2016-10-20 17:18:00.5569|INFO|thread: 4|StartupLogging| Git Extracted: 'False:
+2016-10-20 17:18:00.5569|INFO|thread: 4|StartupLogging| PortableGit Dir Exists: 'C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8'
+2016-10-20 17:18:00.5569|ERROR|thread: 4|PortableGitManager|git.exe doesn't exist at 'C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\cmd\git.exe'
+2016-10-20 17:18:00.5569|ERROR|thread: 4|StartupLogging| MISSING Git Executable: 'C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\cmd\git.exe'
+2016-10-20 17:18:00.5569|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\cmd'
+2016-10-20 17:18:00.5569|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\usr\bin'
+2016-10-20 17:18:00.5569|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\usr\share\git-tfs'
+2016-10-20 17:18:00.5569|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\Aditya\AppData\Local\GitHub\lfs-amd64_1.2.0'
+2016-10-20 17:18:00.5569|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'c:\program files (x86)\java\jre7\bin'
+2016-10-20 17:18:00.5569|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'c:\program files\ibm\gsk8\lib64'
+2016-10-20 17:18:00.5569|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Program Files(x86)\Java\jdk1.7.0_51\bin'
+2016-10-20 17:18:00.5569|ERROR|thread: 4|StartupLogging| MISSING PATH!!: '%USERPROFILE%\AppData\Local\Microsoft\WindowsApps'
+2016-10-20 17:18:00.5569|INFO|thread: 4|StartupLogging| ----------------------------------------------------
+2016-10-20 17:18:00.5569|INFO|thread: 4|StartupLogging| PATH: C:\Program Files (x86)\Google\Chrome\Application;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;c:\program files (x86)\java\jre7\bin;c:\program files (x86)\microsoft sql server\100\tools\binn\vsshell\common7\ide\;c:\program files (x86)\microsoft sql server\100\tools\binn\;c:\program files\microsoft sql server\100\tools\binn\;c:\program files (x86)\microsoft sql server\100\dts\binn\;c:\program files\tortoisesvn\bin;c:\maven\bin;c:\windows\system32;c:\program files\ibm\gsk8\lib64;C:\Program Files\MongoDB\Server\3.0\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jdk1.7.0_51\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\nodejs\;C:\Program Files(x86)\Java\jdk1.7.0_51\bin;C:\Program Files\MongoDB\Server\3.0\bin;C:\Users\Aditya\AppData\Roaming\npm;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;
+2016-10-20 17:18:00.5819|INFO|thread: 4|StartupLogger|Proxy information: (None)
+2016-10-20 17:18:00.5819|INFO|thread: 4|StartupLogger|Couldn't fetch creds for proxy
+2016-10-20 17:18:02.9048|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Aditya\AppData\Local\Apps\2.0\RMY7Y07A.CXO\5AP666W2.H7V\gith..tion_317444273a93ac29_0003.0002_34b4671ab86a4854\Images\App.ico'
+2016-10-20 17:18:13.5456|INFO|thread: 8|SoftwareUpdateViewModel|Checking for new version
+2016-10-20 17:18:26.2906|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Aditya\AppData\Local\Apps\2.0\RMY7Y07A.CXO\5AP666W2.H7V\gith..tion_317444273a93ac29_0003.0002_34b4671ab86a4854\lib\7za.exe', Args: 'x -y "-oC:\Users\Aditya\AppData\Local\GitHub\dbwibh0n.5ud.deleteme" "C:\Users\Aditya\AppData\Local\Apps\2.0\RMY7Y07A.CXO\5AP666W2.H7V\gith..tion_317444273a93ac29_0003.0002_34b4671ab86a4854\PortableGit.7z"', Working Directory: 
+2016-10-20 17:18:26.9113|INFO|thread: 1|PortablePackageManager|Extracting PortableGit.7z is (so far) successful
+2016-10-20 17:18:27.1375|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2016-10-20 17:18:27.1375|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2016-10-20 17:18:39.4832|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2016-10-20 17:18:45.3080|INFO|thread: 1|SoftwareUpdateViewModel|New version available: 3.3.1.0
+2016-10-20 17:18:47.0282|WARN|thread:24|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2016-10-20 17:18:47.5689|INFO|thread:24|BlobCacheUtils|Vacuuming C:\Users\Aditya\AppData\Local\GitHub\images.cache.db
+2016-10-20 17:18:47.6798|INFO|thread: 1|RepositoryHost|Log in from cache for login 'adityatekniti09' to host 'https://api.github.com/' SUCCEEDED
+2016-10-20 17:18:48.0335|INFO|thread: 1|DashboardViewModel|Received request to clone: 'https://github.com/adityatekniti09/BSA'
+2016-10-20 17:18:48.1117|INFO|thread:14|DashboardViewModel|Selected repository 'rmalired/CFundCampaign'
+2016-10-20 17:18:48.1344|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 1 at GitClient.cs:605
+2016-10-20 17:18:48.1500|INFO|thread:14|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 2 at GitClient.cs:583
+2016-10-20 17:18:48.1812|INFO|thread:24|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1 at GitClient.cs:605 after waiting 0.0497937s
+2016-10-20 17:18:50.1392|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1 at GitClient.cs:605 after blocking 1.9558181s
+2016-10-20 17:18:50.1392|INFO|thread:25|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 2 at GitClient.cs:583 after waiting 1.9867736s
+2016-10-20 17:18:51.4518|INFO|thread:25|DashboardViewModel|Took 3327ms to Create RepositoryViewModel for location C:\Users\Aditya\Documents\GitHub\CFundCampaign
+2016-10-20 17:18:51.4518|INFO|thread:25|AsyncReaderWriterLock|Released exclusive scheduler for operation: 2 at GitClient.cs:583 after blocking 1.3120157s
+2016-10-20 17:18:58.0168|INFO|thread:27|BackgroundFetcher|Got a refresh period for C:\Users\Aditya\Documents\GitHub\CFundCampaign\.git of 300 seconds
+2016-10-20 17:18:58.0168|INFO|thread:27|BackgroundFetcher|Added a delay for C:\Users\Aditya\Documents\GitHub\CFundCampaign\.git of 12065 milliseconds
+2016-10-20 17:18:59.7312|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 3 at GitClient.cs:588
+2016-10-20 17:18:59.7312|INFO|thread:25|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3 at GitClient.cs:588 after waiting 6.11E-05s
+2016-10-20 17:18:59.7312|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3 at GitClient.cs:588 after blocking 0.0046726s
+2016-10-20 17:19:23.0365|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/adityatekniti09/BSA.git
+2016-10-20 17:19:23.0445|INFO|thread: 1|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2016-10-20 17:19:23.0445|INFO|thread: 1|RepositoryModel|Cloning 'https://github.com/adityatekniti09/BSA.git' to 'BSA' in directory 'C:\Users\Aditya\Documents\GitHub
+2016-10-20 17:19:23.0585|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-10-20 17:19:23.0585|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\cmd;C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\usr\bin;C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\usr\share\git-tfs;C:\Users\Aditya\AppData\Local\Apps\2.0\RMY7Y07A.CXO\5AP666W2.H7V\gith..tion_317444273a93ac29_0003.0002_34b4671ab86a4854;C:\Users\Aditya\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-10-20 17:19:23.0585|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\cmd\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/adityatekniti09/BSA.git" "BSA" ', Working Directory: C:\Users\Aditya\Documents\GitHub
+2016-10-20 17:19:23.3911|ERROR|thread: 1|ProcessWrapper|Exception thrown while running the following command: 'C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\cmd\git.exe clone --progress --recursive  --  "https://github.com/adityatekniti09/BSA.git" "BSA" '
+2016-10-20 17:19:23.4162|INFO|thread: 1|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2016-10-20 17:19:23.5050|INFO|thread:14|DashboardViewModel|Selected repository 'adityatekniti09/BSA'
+2016-10-20 17:19:23.6280|INFO|thread:14|DashboardViewModel|Took 0ms to Create RepositoryViewModel for location C:\Users\Aditya\Documents\GitHub\BSA
+2016-10-20 17:19:23.7548|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or contact out support team if you are still having problems.
+System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at GitHub.IO.ProcessWrapper.Start()
+   at GitHub.IO.ObservableProcess..ctor(IProcess process, Boolean throwOnNonZeroExitCode)
+2016-10-20 17:19:32.3055|INFO|thread:14|DashboardViewModel|Selected repository 'rmalired/CFundCampaign'
+2016-10-20 17:20:05.0136|ERROR|thread:17|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2016-10-20 17:21:15.2916|INFO|thread: 1|DashboardViewModel|Received request to clone: 'https://github.com/adityatekniti09/BSA.git'
+2016-10-20 17:21:28.1140|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/adityatekniti09/BSA.git
+2016-10-20 17:21:28.1140|INFO|thread: 1|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2016-10-20 17:21:28.1140|INFO|thread: 1|RepositoryModel|Cloning 'https://github.com/adityatekniti09/BSA.git' to 'BSA' in directory 'C:\Users\Aditya\Documents
+2016-10-20 17:21:28.1190|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-10-20 17:21:28.1190|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\cmd;C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\usr\bin;C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\usr\share\git-tfs;C:\Users\Aditya\AppData\Local\Apps\2.0\RMY7Y07A.CXO\5AP666W2.H7V\gith..tion_317444273a93ac29_0003.0002_34b4671ab86a4854;C:\Users\Aditya\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-10-20 17:21:28.1190|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\cmd\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/adityatekniti09/BSA.git" "BSA" ', Working Directory: C:\Users\Aditya\Documents
+2016-10-20 17:21:28.1190|ERROR|thread: 1|ProcessWrapper|Exception thrown while running the following command: 'C:\Users\Aditya\AppData\Local\GitHub\PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8\cmd\git.exe clone --progress --recursive  --  "https://github.com/adityatekniti09/BSA.git" "BSA" '
+2016-10-20 17:21:28.1190|INFO|thread: 1|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2016-10-20 17:21:28.1190|INFO|thread:14|DashboardViewModel|Selected repository 'adityatekniti09/BSA'
+2016-10-20 17:21:28.1440|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or contact out support team if you are still having problems.
+System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at GitHub.IO.ProcessWrapper.Start()
+   at GitHub.IO.ObservableProcess..ctor(IProcess process, Boolean throwOnNonZeroExitCode)
+2016-10-20 17:21:28.2551|INFO|thread:14|DashboardViewModel|Took 0ms to Create RepositoryViewModel for location C:\Users\Aditya\Documents\BSA
